@@ -83,6 +83,7 @@ ul {
   outline: #3B0B0B dotted thick;
   transition: 0.75s;
   opacity: 1;
+  max-width: 273px;
 }
 
 .minBackgroundSneak {
@@ -104,6 +105,7 @@ ul {
 
 .pigTile h3 {
   color: #FBB;
+  word-wrap: normal
 }
 .minPigTile {
   width: 250px;
